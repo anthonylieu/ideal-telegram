@@ -52,49 +52,49 @@ textarea {
   background-color: #06aed5;
 }
 
-  .saveBtn:hover {
-    background-color: #8ecae6;
-    color: #ffffff;
+.saveBtn:hover {
+  background-color: #8ecae6;
+  color: #ffffff;
+}
+
+@media (max-width: 991.98px) {
+  .hour {
+    font-size: 20px;
   }
-  
-  @media (max-width: 991.98px) {
-    .hour {
-      font-size: 20px;
-    }
-  
-    .description {
-      font-size: 18px;
-    }
-  
-    .saveBtn {
-      font-size: 20px;
-    }
+
+  .description {
+    font-size: 18px;
   }
-  
-  @media (max-width: 767.98px) {
-    .hour {
-      font-size: 18px;
-    }
-  
-    .description {
-      font-size: 16px;
-    }
-  
-    .saveBtn {
-      font-size: 18px;
-    }
+
+  .saveBtn {
+    font-size: 20px;
   }
-  
-  @media (max-width: 575.98px) {
-    .hour {
-      font-size: 16px;
-    }
-  
-    .description {
-      font-size: 14px;
-    }
-  
-    .saveBtn {
-      font-size: 16px;
-    }
+}
+
+@media (max-width: 767.98px) {
+  .hour {
+    font-size: 18px;
   }
+
+  .description {
+    font-size: 16px;
+  }
+
+  .saveBtn {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .hour {
+    font-size: 16px;
+  }
+
+  .description {
+    font-size: 14px;
+  }
+
+  .saveBtn {
+    font-size: 16px;
+  }
+}
