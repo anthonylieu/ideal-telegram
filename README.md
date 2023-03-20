@@ -4,5 +4,5 @@
 <br>I made sure that you can click into the timeblocks in order to enter an event.</br>
 <br>I made sure that when you click the save button for the time block that you enter text in, that it gets saved to the local storage.</br>
 <br>I made sure that when I refresh the page, then the saved events persist.</br>
-https://anthonylieu.github.io/ideal-telegram/
+<br>https://anthonylieu.github.io/ideal-telegram/</br>
 ![anthonylieu github io_ideal-telegram_ (1)](https://user-images.githubusercontent.com/38957648/226384250-3c3f158d-c7f3-4add-8448-a32375288ded.png)
