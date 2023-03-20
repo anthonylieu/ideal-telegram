@@ -5,4 +5,4 @@
 <br>I made sure that when you click the save button for the time block that you enter text in, that it gets saved to the local storage.</br>
 <br>I made sure that when I refresh the page, then the saved events persist.</br>
 https://anthonylieu.github.io/ideal-telegram/
-![_C__Users_Anthony_bootcamp_module-5-assignment_ideal-telegram_index html (1)](https://user-images.githubusercontent.com/38957648/225790521-d7e9428a-44b3-4c47-ab22-0d2af9702579.png)
+![anthonylieu github io_ideal-telegram_ (1)](https://user-images.githubusercontent.com/38957648/226384250-3c3f158d-c7f3-4add-8448-a32375288ded.png)
